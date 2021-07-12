@@ -3,5 +3,7 @@ The Rainbow
 Purple
 Pink
 Orange
-Blue Read
+Blue 
+Red
+Green
 Colors of rainbow
